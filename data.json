@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "message": "Hello from GitHub Pages API!",
+  "users": [
+    {"id": 1, "name": "Ghost"},
+    {"id": 2, "name": "Power"}
+  ]
+}
