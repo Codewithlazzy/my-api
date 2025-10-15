@@ -3,7 +3,7 @@
     "id": 1, 
     "name": "Hunar Creation", 
     "role": "Company", 
-    "status": "in-active", 
+    "status": "active", 
     "user_expiry": "29-10-2025" 
   },
   { 
@@ -14,3 +14,4 @@
     "user_expiry": null 
   }
 ]
+
