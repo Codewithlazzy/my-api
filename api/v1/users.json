@@ -8,12 +8,13 @@
   },
   { 
     "id": 2, 
-    "name": "Power", 
-    "role": "Admin", 
-    "status": "inactive", 
-    "user_expiry": null 
+    "name": "Tally-Hunar Creation", 
+    "role": "Company", 
+    "status": "active", 
+    "user_expiry": "31-12-2025" 
   }
 ]
+
 
 
 
