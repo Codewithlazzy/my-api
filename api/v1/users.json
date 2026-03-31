@@ -17,7 +17,7 @@
     "id": 3, 
     "name": "Hunar_Creation", 
     "role": "Company", 
-    "status": "active", 
+    "status": "Deactive", 
     "user_expiry": "31-12-2025" 
   }
 ]
